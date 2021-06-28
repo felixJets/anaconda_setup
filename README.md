@@ -28,8 +28,8 @@
 	$ sha256sum ~/Downloads/pycharm-community-2021.1.2.tar.gz
    ```
 3. Extract the data to your desired location (/opt is recommended) 
-     ```bash
-       $ sudo tar -xzf Downloads/pycharm-community-2021.1.2.tar.gz -C /opt/
+    ```bash
+   $ sudo tar -xzf Downloads/pycharm-community-2021.1.2.tar.gz -C /opt/
     ```
 4. Go to the new bin directory and start PyCharm
      ```bash
